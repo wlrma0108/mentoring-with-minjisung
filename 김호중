@@ -1,5 +1,5 @@
 
-void snail(int a, int *arr[]) {
+void snail() {
 	int start = 1;
 	int column = -1;
 	int row = 0;
